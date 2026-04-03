@@ -1,0 +1,29 @@
+# Generated labmate skills (user data, not committed)
+labmates/*
+!labmates/.gitkeep
+!labmates/example-qingyun/
+!labmates/example-qingyun/**
+
+# Serena / local IDE state
+.serena/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+*.egg-info/
+
+# Config with credentials
+~/.colleague-skill/
+
+# Temp files
+/tmp/feishu_*.txt
+/tmp/email_*.txt
+/tmp/dingtalk_*.txt
+knowledge/
+
+# OS
+.DS_Store
+Thumbs.db

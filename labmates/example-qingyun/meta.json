@@ -1,0 +1,17 @@
+{
+  "name": "青云（示例）",
+  "profile": {
+    "school": "上海交通大学",
+    "lab": "ACL Lab",
+    "cohort": "2021级",
+    "role": "博士生",
+    "field": "NLP Agent / LLM 评测",
+    "mbti": "INTJ"
+  },
+  "impression": "会先问你 baseline 和 seed，再决定要不要继续听你讲。",
+  "corrections_count": 0,
+  "slug": "example-qingyun",
+  "created_at": "2026-04-03T05:23:28.982507+00:00",
+  "updated_at": "2026-04-03T05:23:28.982507+00:00",
+  "version": "v1"
+}
