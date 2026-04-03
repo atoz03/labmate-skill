@@ -5,7 +5,14 @@
 
 > *"你为什么要追着你的老师兄/老师姐不放啊"*
 
-**师兄师姐毕业了？别慌。把他蒸馏成 Skill，继续追问论文、实验和人生建议。**
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Python 3.9+](https://img.shields.io/badge/Python-3.9%2B-blue.svg)](https://python.org)
+[![Claude Code](https://img.shields.io/badge/Claude%20Code-Skill-blueviolet)](https://claude.ai/code)
+[![AgentSkills](https://img.shields.io/badge/AgentSkills-Standard-green)](https://agentskills.io)
+
+<br>
+
+**师兄师姐毕业了？别慌。把他蒸馏成 Skill，继续咬着ta不放。**
 
 </div>
 
@@ -17,7 +24,7 @@
 
 它服务于一个朴素而广泛存在的科研问题：
 
-> **师兄师姐毕业了，但你的问题还没毕业。**
+> **师兄师姐毕业了，但他的服务器/代码没人敢改。**
 
 你给它喂：
 
